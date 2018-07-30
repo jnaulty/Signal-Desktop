@@ -194,7 +194,7 @@
       },
       "asarUnpack": "node_modules/spellchecker/vendor/hunspell_dictionaries",
       "target": [
-        "deb"
+        "rpm"
       ],
       "icon": "build/icons/png"
     },
